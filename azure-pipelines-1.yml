@@ -1,0 +1,2 @@
+- name: Build Azure Virtual Machine Image
+  uses: Azure/build-vm-image@v0
